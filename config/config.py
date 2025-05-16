@@ -5,8 +5,10 @@ from typing import Optional
 
 from musicbot.utils import get_env_var, alchemize_url
 
+with open('config/token.bottoken') as f: token = f.readline() # Create a token.bottoken with bot token file in Config directory
+f.close()
 
-BOT_TOKEN: str = get_env_var("BOT_TOKEN", "")
+BOT_TOKEN: str = get_env_var("BOT_TOKEN", token)
 SPOTIFY_ID: str = get_env_var("SPOTIFY_ID", "")
 SPOTIFY_SECRET: str = get_env_var("SPOTIFY_SECRET", "")
 
