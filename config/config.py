@@ -6,7 +6,7 @@ from typing import Optional
 from musicbot.utils import get_env_var, alchemize_url
 
 
-BOT_TOKEN: str = get_env_var("BOT_TOKEN", "OTY1NTQ1MTY4MTAxMDU2NTQy.GOaC4I.G126QWmI0LehCUj4KIpbcuNjb1O78EiwEE8wZc")
+BOT_TOKEN: str = get_env_var("BOT_TOKEN", "")
 SPOTIFY_ID: str = get_env_var("SPOTIFY_ID", "")
 SPOTIFY_SECRET: str = get_env_var("SPOTIFY_SECRET", "")
 
