@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: MusicBot-DB
+Version: 0.0.0
+Requires-Dist: aiosqlite
+Dynamic: requires-dist

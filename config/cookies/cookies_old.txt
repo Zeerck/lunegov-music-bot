@@ -1,0 +1,42 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.youtube.com	TRUE	/	TRUE	1691690076	VISITOR_INFO1_LIVE	RjJH1Nh_-vk	29
+.youtube.com	TRUE	/	TRUE	1701018482	LOGIN_INFO	AFmmF2swRQIgRx6Du5K2NxIY4EdEQdNHdX1GcMeki9KklTZgoJUflPYCIQCROBcTnC_ATJYeaKUmZPUQYgsyxVZtIkqAXUELhyMeoA:QUQ3MjNmeVlYQnE1bVRBX0NpUE5wV2FzcFI2NU55YlNzQ2tmRGlCUXRGcll0ck1jOW8zeWhsY25UTFpFeVZUb1N6NGdjUXZjT25xenJBMVVtcWRlVngzNDNjbGxsY3gyU19FX2tFN2RUMURCS2FzOF9RN3BSQ0ZRT29wNFFVQlpKVjM1OEdZS1dfWTByeFpOSzdRTWlVTEN3N2diSFNZejZn	329
+.youtube.com	TRUE	/	FALSE	1679652495	_gcl_au	1.1.413765106.1671876495	31
+.youtube.com	TRUE	/	FALSE	1710151590	HSID	A7t8ugf_H-hDclq7D	21
+.youtube.com	TRUE	/	TRUE	1710151590	SSID	AAwEvescUpTLzLtDB	21
+.youtube.com	TRUE	/	FALSE	1710151590	APISID	rHighzVt_paS2xw9/ArQqDzSxSbDFg-P11	40
+.youtube.com	TRUE	/	TRUE	1710151590	SAPISID	RIK_DEYb4m1lxDN-/AzDZhzYuv2N_ivb0J	41
+.youtube.com	TRUE	/	TRUE	1710151590	__Secure-1PAPISID	RIK_DEYb4m1lxDN-/AzDZhzYuv2N_ivb0J	51
+.youtube.com	TRUE	/	TRUE	1710151590	__Secure-3PAPISID	RIK_DEYb4m1lxDN-/AzDZhzYuv2N_ivb0J	51
+.youtube.com	TRUE	/	TRUE	1688861950	DEVICE_INFO	ChxOekU0TmpneE1UVXdOREF4TlRBMU56STVPUT09EPzd8p0GGPzd8p0G	67
+.youtube.com	TRUE	/	TRUE	1711531288	PREF	tz=Asia.Yekaterinburg&f6=40000000&f5=30000&volume=3&f7=150	62
+.youtube.com	TRUE	/	FALSE	1710151590	SID	TgiXv1bTn3WkpBq0nmFt9LrI8Z3aZXZ1ob6U5aYIzMs6L7fVWGud_mnUoPNQeEAntkcrlQ.	74
+.youtube.com	TRUE	/	TRUE	1710151590	__Secure-1PSID	TgiXv1bTn3WkpBq0nmFt9LrI8Z3aZXZ1ob6U5aYIzMs6L7fVREtx33KaPq1PR-D6dJjypQ.	85
+.youtube.com	TRUE	/	TRUE	1710151590	__Secure-3PSID	TgiXv1bTn3WkpBq0nmFt9LrI8Z3aZXZ1ob6U5aYIzMs6L7fVXyOHpsrflNdmPhqm2G80Xg.	85
+.youtube.com	TRUE	/	TRUE		YSC	_hJMNsvBf6Y	14
+.youtube.com	TRUE	/	FALSE		wide	1	5
+.youtube.com	TRUE	/	FALSE	1708507289	SIDCC	AFvIBn8EtiLgDTdueyH6p-queGBnSg9bDZ4ib-HYQQ9dxi54wnTJbRQv4KkvFkIeD0eWpfoE211q	81
+.youtube.com	TRUE	/	TRUE	1708507289	__Secure-1PSIDCC	AFvIBn_KP8A7KKVQsU86DMGmI4L5qHNJqxXLyaBjKSsEh-P1GHfuMjWuakPoRY-BqZtOTRukSt8	91
+.youtube.com	TRUE	/	TRUE	1708507289	__Secure-3PSIDCC	AFvIBn9KCudDIZAWhlq9Dnek8fGzjA6QAv4K-UaZQ-abKWF_jF8UnbmhTfUfj9fCLJ2FZaENm2hj	92
+www.youtube.com	FALSE	/			VISITOR_INFO1_LIVE	RjJH1Nh_-vk	29
+www.youtube.com	FALSE	/			 LOGIN_INFO	AFmmF2swRQIgRx6Du5K2NxIY4EdEQdNHdX1GcMeki9KklTZgoJUflPYCIQCROBcTnC_ATJYeaKUmZPUQYgsyxVZtIkqAXUELhyMeoA:QUQ3MjNmeVlYQnE1bVRBX0NpUE5wV2FzcFI2NU55YlNzQ2tmRGlCUXRGcll0ck1jOW8zeWhsY25UTFpFeVZUb1N6NGdjUXZjT25xenJBMVVtcWRlVngzNDNjbGxsY3gyU19FX2tFN2RUMURCS2FzOF9RN3BSQ0ZRT29wNFFVQlpKVjM1OEdZS1dfWTByeFpOSzdRTWlVTEN3N2diSFNZejZn	330
+www.youtube.com	FALSE	/			 _gcl_au	1.1.413765106.1671876495	32
+www.youtube.com	FALSE	/			 HSID	A7t8ugf_H-hDclq7D	22
+www.youtube.com	FALSE	/			 SSID	AAwEvescUpTLzLtDB	22
+www.youtube.com	FALSE	/			 APISID	rHighzVt_paS2xw9/ArQqDzSxSbDFg-P11	41
+www.youtube.com	FALSE	/			 SAPISID	RIK_DEYb4m1lxDN-/AzDZhzYuv2N_ivb0J	42
+www.youtube.com	FALSE	/			 __Secure-1PAPISID	RIK_DEYb4m1lxDN-/AzDZhzYuv2N_ivb0J	52
+www.youtube.com	FALSE	/			 __Secure-3PAPISID	RIK_DEYb4m1lxDN-/AzDZhzYuv2N_ivb0J	52
+www.youtube.com	FALSE	/			 DEVICE_INFO	ChxOekU0TmpneE1UVXdOREF4TlRBMU56STVPUT09EPzd8p0GGPzd8p0G	68
+www.youtube.com	FALSE	/			 PREF	tz	7
+www.youtube.com	FALSE	/			 SID	TgiXv1bTn3WkpBq0nmFt9LrI8Z3aZXZ1ob6U5aYIzMs6L7fVWGud_mnUoPNQeEAntkcrlQ.	75
+www.youtube.com	FALSE	/			 __Secure-1PSID	TgiXv1bTn3WkpBq0nmFt9LrI8Z3aZXZ1ob6U5aYIzMs6L7fVREtx33KaPq1PR-D6dJjypQ.	86
+www.youtube.com	FALSE	/			 __Secure-3PSID	TgiXv1bTn3WkpBq0nmFt9LrI8Z3aZXZ1ob6U5aYIzMs6L7fVXyOHpsrflNdmPhqm2G80Xg.	86
+www.youtube.com	FALSE	/			 YSC	_hJMNsvBf6Y	15
+www.youtube.com	FALSE	/			 wide	1	6
+www.youtube.com	FALSE	/			 SIDCC	AFvIBn86LNMZBlQ1hc3jj3uQpKApsE48NGuzMTzdIRFr-NZNiTEhCcBaKZqQy04JqXB6HKBWOYrc	82
+www.youtube.com	FALSE	/			 __Secure-1PSIDCC	AFvIBn9WukrVdsMh9QqazpHvrkAfJVYqEwKP5uzd6iBwDsjCySKmwIitGe8Hvi1r8TQxiDfikiI	92
+www.youtube.com	FALSE	/			 __Secure-3PSIDCC	AFvIBn-0_eiA_ggvl1m8pDo5COUldV2RGqyhLK8j00JWXDgOA6a_iajZnfeodqcLRtRhJxy30Sl2	93

@@ -1,0 +1,9 @@
+py-cord[voice]==2.6.1
+yt-dlp==2025.4.30
+aiohttp==3.11.18
+beautifulsoup4==4.11.1
+spotipy==2.22.0
+emoji==2.2.0
+SQLAlchemy[asyncio]==1.4.46
+alembic==1.9.1
+./config
